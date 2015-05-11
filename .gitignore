@@ -1,0 +1,7 @@
+local.properties
+configuration.xml
+.*
+!.gitignore
+.idea
+*.iml
+build
